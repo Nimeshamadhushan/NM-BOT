@@ -8,7 +8,7 @@ const channelInfo = {
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
             newsletterJid: '120363421404404181@newsletter',
-            newsletterName: 'S̶A̶M̶S̶U̶N̶G̶_X̶M̶D̶',
+            newsletterName: 'NIMA BOT̶',
             serverMessageId: -1
         }
     }
