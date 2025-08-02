@@ -1,7 +1,7 @@
 const config = {};
 config.packname = "NIMA BOT",
 config.author = "🛡️",
-config.botName = "NIMA BOT",
+config.botName = "NIMA BOT ", 
 config.botOwner = "NIMESHA",
 // 🔧 REPLACE BELOW - Add your number and choose any emoji
 config.ownerNumber = '94726800969',
@@ -11,3 +11,4 @@ config.description = "This is a bot for managing group commands and automating t
 config.version = "999",
 config.statusReactionEmoji = '🍆';
 module.exports = config;
+p
