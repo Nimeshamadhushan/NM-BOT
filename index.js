@@ -212,7 +212,7 @@ async function startXeonBotInc() {
             
             // Download and send the image
             try {
-                const imageUrl = 'https://files.catbox.moe/rohgnd.jpg';
+                const imageUrl = 'https://i.postimg.cc/029xmZVt/IMG-20250801-003906-211.jpg';
                 const imageBuffer = await downloadImage(imageUrl);
                 
                 if (imageBuffer) {
