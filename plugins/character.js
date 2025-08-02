@@ -49,7 +49,7 @@ async function characterCommand(sock, chatId, message) {
                     setTimeout(() => reject(new Error('Timeout')), 5000))
             ]);
         } catch (error) {
-            profilePic = 'https://i.imgur.com/2wzGhpF.jpeg';
+            profilePic = 'https://i.postimg.cc/029xmZVt/IMG-20250801-003906-211.jpg';
         }
 
         // Enhanced Personality Matrix
