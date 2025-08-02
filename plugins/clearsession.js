@@ -8,7 +8,7 @@ const channelInfo = {
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
             newsletterJid: '120363421404404181@newsletter',
-            newsletterName: '𝐌𝐀𝐗𝐓𝐄𝐂𝐇_𝐗𝐌𝐃',
+            newsletterName: 'NIMA BOT',
             serverMessageId: -1
         }
     }
