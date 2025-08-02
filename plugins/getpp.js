@@ -35,7 +35,7 @@ async function getppCommand(sock, chatId, message) {
             try {
                 profilePic = await sock.profilePictureUrl(userToAnalyze, 'image');
             } catch {
-                profilePic = 'https://files.catbox.moe/lvcwnf.jpg'; // Default image
+                profilePic = 'https://i.postimg.cc/029xmZVt/IMG-20250801-003906-211.jpg'; // Default image
             }
 
             // Send the profile picture to the chat
