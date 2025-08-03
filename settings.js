@@ -1,6 +1,6 @@
 const config = {};
 config.packname = "NIMA BOT",
-config.author = "🛡️",
+config.author = "❤️",
 config.botName = "NIMA BOT",
 config.botOwner = "NIMESHA",
 // 🔧 REPLACE BELOW - Add your number and choose any emoji
